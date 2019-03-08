@@ -1,4 +1,8 @@
 # file_system
+
+* todo:
+  *multi users , the privelage control.(don't wanna figure out...)
+
 data structure:
 * SuperBlock:
 
